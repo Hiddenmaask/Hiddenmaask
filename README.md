@@ -72,9 +72,11 @@
      -->
   </p>
  <p align="center">
-  <a href="github.com/hiddenmaask" target="blank"><img align="center" 
+ <!--
+  <a href="license" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/hiddenmaask/hiddenmaask?color=purple&style=for-the-badge" height="25"
      alt="license" /></a>
+     -->
   <a href="github.com/hiddenmaask"><img align="center"
      src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25"
      alt="work on my machine" /></a>
